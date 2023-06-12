@@ -39,7 +39,7 @@
 
 ## Demo en vivo
 
-Puedes jugar al Granjero en vivo en el siguiente enlace: [Enlace a la demo](https://www.ejemplo.com)
+Puedes jugar al Granjero en vivo en el siguiente enlace: [Enlace a la demo](https://orivero83.github.io/Granjero/))
 
 ## Contribuciones
 
