@@ -34,8 +34,8 @@
 
 ## Capturas de pantalla
 
-![Imagen del Juego1](images/NewImg/img1.jpg)
-![Imagen del Juego2](images/NewImg/img2.jpg)
+![Imagen del Juego1](images/NewImg/Img1.jpg)
+![Imagen del Juego2](images/NewImg/Img2.jpg)
 
 ## Demo en vivo
 
