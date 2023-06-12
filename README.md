@@ -17,6 +17,8 @@
  - Robot iconos animados creados por Freepik - Flaticon.
  - Foto de pixmike: https://www.pexels.com/es-es/foto/cesped-verde-413195/
  - Music by Music_Unlimited from Pixabay.
+
+   Creado por Oscar Rivero (2023) ©
  
 ## Tecnologías utilizadas
 
