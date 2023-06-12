@@ -1,4 +1,4 @@
-# Granjero Acuático - Juego Interactivo
+# Granjero - Juego Interactivo
 
 ¡Bienvenido a "Granjero" Un divertido juego interactivo en el que te convertirás en un granjero y tendrás que proteger tu granja disparando agua a los animales traviesos que intentan arruinar tus cultivos.
 
